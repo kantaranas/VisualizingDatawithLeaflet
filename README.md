@@ -58,9 +58,12 @@ function createFeatures(earthquakeData) {
 
 ## Grayscale Map 
 
+![png](/images/lightmap.png)
+
 ## Outdoors Layer 
 
+![png](/images/outdoorsmap.png)
 
-```python
+## Json 
 
-```
+![png](/images/json.png)
